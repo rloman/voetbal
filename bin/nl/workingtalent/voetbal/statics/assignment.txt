@@ -1,0 +1,10 @@
+Maak een class Labels
+Zet daarin een public static final String companyName
+
+print de inhoud van die waarde
+
+Override de methode scoren() in Keeper
+Maak een (dus static ) Keeper counter, die bijhoudt hoevaak de Keeper de bal heeft tegengehouden.
+
+ 
+
