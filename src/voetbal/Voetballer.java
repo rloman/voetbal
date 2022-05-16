@@ -11,6 +11,7 @@ public class Voetballer {
 	}
 
 	public String getNaam() {
+		
 		return this.naam;
 	}
 
@@ -25,5 +26,4 @@ public class Voetballer {
 	public void setLeeftijd(int leeftijd) {
 		this.leeftijd = leeftijd;
 	}
-
 }

@@ -1,5 +1,7 @@
 package voetbal;
 
+import java.util.ArrayList;
+
 public class Application {
 	
 	
@@ -11,6 +13,8 @@ public class Application {
 		cruijf = new Voetballer(); // instantiatie
 		
 		Voetballer neeskens = new Voetballer(); // declaratie + instantiatie;
+		
+		String firstName = "Raymond";
 		
 		neeskens.setNaam("Johan");
 		neeskens.setLeeftijd(59);
