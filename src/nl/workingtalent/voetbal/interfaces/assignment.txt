@@ -1,0 +1,11 @@
+Maak interface Televisie met methods:
+- on()
+- off()
+- switchChannel(int newChannel);
+
+Maak concrete class van jouw TV thuis
+implementeer de interface Televisie in die class
+
+maak een App met een main die een Televisie declareert en jouw TV-class instantieerd
+Zet hem aan, zet hem op kanaal 7 en zet hem uit.
+

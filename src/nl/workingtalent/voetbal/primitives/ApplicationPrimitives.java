@@ -1,5 +1,7 @@
 package nl.workingtalent.voetbal.primitives;
 
+import nl.workingtalent.voetbal.constants.Labels;
+
 public class ApplicationPrimitives {
 	
 	public static void main(String[] args) {
