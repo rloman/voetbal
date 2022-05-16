@@ -1,6 +1,10 @@
-package voetbal;
+package nl.workingtalent.voetbal.inheritance;
+
 
 import java.awt.Color;
+
+import nl.workingtalent.voetbal.model.Handschoenen;
+import nl.workingtalent.voetbal.model.Keeper;
 
 public class AppDemoInheritance {
 

@@ -1,4 +1,4 @@
-package voetbal;
+package nl.workingtalent.voetbal.primitives;
 
 public class ApplicationPrimitives {
 	
