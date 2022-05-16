@@ -7,7 +7,9 @@ package nl.workingtalent.voetbal.model;
 public /* final */ class Voetballer extends Persoon  {
 	
 	public static int totaalAantalGescoordeDoelpunten = 0;
-
+	
+	private int rugnummer;
+	
 	
 	// method
 	public boolean scoren() {
@@ -23,5 +25,13 @@ public /* final */ class Voetballer extends Persoon  {
 	public /*final*/  void walk() {
 		System.out.println("Walking voetballer!!!");
 		
+	}
+
+	public int getRugnummer() {
+		return rugnummer;
+	}
+
+	public void setRugnummer(int rugnummer) {
+		this.rugnummer = rugnummer;
 	}
 }

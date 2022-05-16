@@ -1,0 +1,4 @@
+Maak een constructor in de class Voetballer die een rugNummer ontvangt.
+Assign dat rugnummer aan het field
+Maak een getter en setter
+

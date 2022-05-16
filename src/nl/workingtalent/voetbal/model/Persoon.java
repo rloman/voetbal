@@ -4,7 +4,7 @@ public abstract class Persoon  /* extends Object */ {
 
 	private String naam;
 	private int leeftijd;
-
+	
 	public String getNaam() {
 		return this.naam;
 	}
