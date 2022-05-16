@@ -1,6 +1,6 @@
 package voetbal;
 
-public class Voetballer {
+public class Voetballer /* extends Object */ {
 
 	private String naam;
 	private int leeftijd;
