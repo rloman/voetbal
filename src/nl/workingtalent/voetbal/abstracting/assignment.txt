@@ -1,0 +1,8 @@
+Maak een abstracte methode in class Persoon (walk)
+Zie wat er gebeurd
+Fix dit in Voetballer
+(Print iets in de voetballer zijn walk method)
+
+In een Application file in een main method
+- Maak een Persoon declaratie en vul die met een instantie van Voetballer
+

@@ -23,4 +23,8 @@ public class Keeper extends Voetballer {
 		this.shirtColor = shirtColor;
 	}
 
+	public void walk() {
+		System.out.println("Walking Keeper");
+	}
+
 }
