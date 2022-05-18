@@ -1,7 +1,6 @@
 package nl.workingtalent.voetbal.statics;
 
 import nl.workingtalent.voetbal.constants.Labels;
-import nl.workingtalent.voetbal.model.Persoon;
 import nl.workingtalent.voetbal.model.Voetballer;
 
 public class Application {

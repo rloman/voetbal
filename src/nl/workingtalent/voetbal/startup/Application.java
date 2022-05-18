@@ -1,7 +1,5 @@
 package nl.workingtalent.voetbal.startup;
 
-import java.util.ArrayList;
-
 import nl.workingtalent.voetbal.model.Voetballer;
 
 public class Application {
