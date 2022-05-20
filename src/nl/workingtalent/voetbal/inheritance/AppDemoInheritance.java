@@ -3,7 +3,6 @@ package nl.workingtalent.voetbal.inheritance;
 
 import java.awt.Color;
 
-import nl.workingtalent.voetbal.model.Schoenen;
 import nl.workingtalent.voetbal.model.Handschoenen;
 import nl.workingtalent.voetbal.model.Keeper;
 
