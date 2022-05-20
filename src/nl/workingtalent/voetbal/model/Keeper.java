@@ -7,6 +7,7 @@ public class Keeper extends Voetballer {
 	private Handschoenen handschoenen;
 	private Color shirtColor;
 
+
 	public Handschoenen getHandschoenen() {
 		return handschoenen;
 	}

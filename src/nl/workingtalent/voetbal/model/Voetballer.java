@@ -4,11 +4,19 @@ package nl.workingtalent.voetbal.model;
 //     hier dus: nl.workingtalent.voetbal.model.Voetbal
 
 // final in class context: je kunt er niet van erven
-public /* final */ class Voetballer extends Persoon  {
+
+
+
+
+//Dit werkt dus wel straks in Spring Boot => @Entity
+public class Voetballer extends Persoon  {
 	
 	public static int totaalAantalGescoordeDoelpunten = 0;
-	
+
 	private int rugnummer;
+	
+	//Dit werkt dus wel straks in Spring Boot => @OneToOne
+	private Schoenen schoenen;
 	
 	
 	// method

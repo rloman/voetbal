@@ -3,6 +3,7 @@ package nl.workingtalent.voetbal.inheritance;
 
 import java.awt.Color;
 
+import nl.workingtalent.voetbal.model.Schoenen;
 import nl.workingtalent.voetbal.model.Handschoenen;
 import nl.workingtalent.voetbal.model.Keeper;
 
@@ -10,16 +11,16 @@ public class AppDemoInheritance {
 
 	public static void main(String[] args) {
 		
-		Keeper k = new Keeper();
+		Keeper keeper = new Keeper();
 		
-		k.setNaam("Piet Schrijvers");
-		k.setShirtColor(Color.BLUE);
-		k.setHandschoenen(new Handschoenen());
+		keeper.setNaam("Piet Schrijvers");
+		keeper.setShirtColor(Color.BLUE);
+		keeper.setHandschoenen(new Handschoenen());
 		
-		System.out.println(k.getNaam());
-		System.out.println(k.getShirtColor());
+		System.out.println(keeper.getNaam());
+		System.out.println(keeper.getShirtColor());
 		
-		System.out.println(k.hashCode());
-		System.out.println(k.toString());
+		System.out.println(keeper.hashCode());
+		System.out.println(keeper.toString());
 	}
 }
